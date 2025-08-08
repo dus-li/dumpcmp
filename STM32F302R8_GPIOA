@@ -1,0 +1,17 @@
+---
+DESCRIPTION
+Width: 4
+Start: 0x48000000
+Target: extended-remote :4242
+---
+MODER
+OTYPER
+OSPEEDR
+PUPDR
+IDR
+ODR
+BSRR
+LCKR
+AFRL
+AFRH
+BRR
